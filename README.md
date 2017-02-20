@@ -4,6 +4,8 @@
 
 ### 使用说明
 
+将 sucker_patchelf 放置PATH路径下
+
 ```
 sucker -export-dir ./destdir -exec-prefix /home/test/runtest /bin/df
 ```
